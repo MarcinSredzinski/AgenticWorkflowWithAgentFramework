@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Eiffel Tower",
+    "opening_days_and_times": "Daily, generally 09:30-23:00; times can vary by date",
+    "district": "7th",
+    "categories": [ "architecture", "landmark", "views", "families", "inside", "outside", "history" ]
+  },
+  {
+    "name": "Louvre Museum",
+    "opening_days_and_times": "Monday, Thursday, Saturday, Sunday 09:00-18:00; Wednesday and Friday 09:00-21:00; closed Tuesday",
+    "district": "1st",
+    "categories": [ "art", "paintings", "sculptures", "architecture", "history", "families", "inside" ]
+  },
+  {
+    "name": "Musée d’Orsay",
+    "opening_days_and_times": "Tuesday, Wednesday, Friday-Sunday 09:30-18:00; Thursday 09:30-21:45; closed Monday",
+    "district": "7th",
+    "categories": [ "art", "paintings", "impressionism", "sculpture", "architecture", "inside" ]
+  },
+  {
+    "name": "Notre-Dame Cathedral",
+    "opening_days_and_times": "Daily; generally 07:50-19:00, with longer hours on Thursday and different weekend hours",
+    "district": "4th",
+    "categories": [ "architecture", "religion", "history", "sculpture", "stained_glass", "families", "inside" ]
+  },
+  {
+    "name": "Sainte-Chapelle",
+    "opening_days_and_times": "April-September 09:00-19:00; October-March 09:00-17:00; daily except specified holidays",
+    "district": "1st",
+    "categories": [ "architecture", "gothic", "stained_glass", "history", "religion", "inside" ]
+  },
+  {
+    "name": "Arc de Triomphe",
+    "opening_days_and_times": "April-September 10:00-23:00; October-March 10:00-22:30; Tuesday opens at 11:00",
+    "district": "8th",
+    "categories": [ "architecture", "history", "monument", "sculpture", "views", "outside", "inside" ]
+  },
+  {
+    "name": "Sacré-Cœur Basilica",
+    "opening_days_and_times": "Daily, approximately 06:30-22:30",
+    "district": "18th",
+    "categories": [ "architecture", "religion", "history", "sculpture", "views", "families", "inside", "outside" ]
+  },
+  {
+    "name": "Panthéon",
+    "opening_days_and_times": "Daily; October-March 10:00-18:00; April-September 10:00-18:30",
+    "district": "5th",
+    "categories": [ "architecture", "history", "famous_people", "sculpture", "religion", "inside" ]
+  },
+  {
+    "name": "Musée Rodin",
+    "opening_days_and_times": "Tuesday-Sunday 10:00-17:45; closed Monday",
+    "district": "7th",
+    "categories": [ "sculpture", "art", "gardens", "paintings", "architecture", "outside", "inside" ]
+  },
+  {
+    "name": "Musée de l’Armée / Les Invalides",
+    "opening_days_and_times": "Daily 10:00-18:00; selected first Fridays until 22:00",
+    "district": "7th",
+    "categories": [ "military_history", "architecture", "Napoleon", "sculpture", "families", "inside" ]
+  },
+  {
+    "name": "Musée de l’Orangerie",
+    "opening_days_and_times": "Wednesday-Monday 09:00-18:00; closed Tuesday",
+    "district": "1st",
+    "categories": [ "art", "paintings", "impressionism", "Monet", "families", "inside" ]
+  },
+  {
+    "name": "Musée Carnavalet – History of Paris",
+    "opening_days_and_times": "Tuesday-Sunday 10:00-18:00; closed Monday",
+    "district": "3rd",
+    "categories": [ "history", "art", "paintings", "Paris_history", "architecture", "families", "inside" ]
+  },
+  {
+    "name": "Musée Picasso Paris",
+    "opening_days_and_times": "Tuesday-Sunday 09:30-18:00; closed Monday; first Wednesday monthly until 22:00",
+    "district": "3rd",
+    "categories": [ "art", "paintings", "Picasso", "sculpture", "architecture", "families", "inside" ]
+  },
+  {
+    "name": "Conciergerie",
+    "opening_days_and_times": "Daily, generally 09:30-18:00",
+    "district": "1st",
+    "categories": [ "history", "medieval_architecture", "French_Revolution", "architecture", "inside" ]
+  },
+  {
+    "name": "Catacombs of Paris",
+    "opening_days_and_times": "Tuesday-Sunday 10:00-20:30; closed Monday; last entry 19:30",
+    "district": "14th",
+    "categories": [ "history", "underground", "archaeology", "unusual", "inside", "families_with_older_children" ]
+  },
+  {
+    "name": "Père-Lachaise Cemetery",
+    "opening_days_and_times": "Daily; approximately 08:00-18:00 weekdays, with later opening on Saturday and Sunday depending on season",
+    "district": "20th",
+    "categories": [ "history", "sculpture", "famous_people", "architecture", "outside", "walking" ]
+  },
+  {
+    "name": "Tuileries Garden",
+    "opening_days_and_times": "Daily; seasonal, approximately 07:00-21:00 April-October and shorter hours in winter",
+    "district": "1st",
+    "categories": [ "gardens", "outside", "sculpture", "walking", "families", "photography" ]
+  },
+  {
+    "name": "Parc des Buttes-Chaumont",
+    "opening_days_and_times": "Daily, currently approximately 07:00-20:00",
+    "district": "19th",
+    "categories": [ "park", "outside", "gardens", "views", "families", "walking", "architecture" ]
+  },
+  {
+    "name": "Château de Versailles",
+    "opening_days_and_times": "Tuesday-Sunday; April-October château 09:00-18:30; November-March 09:00-17:30; closed Monday",
+    "district": "Versailles / outside Paris",
+    "categories": [ "palace", "architecture", "history", "art", "gardens", "families", "inside", "outside" ]
+  },
+  {
+    "name": "Musée de la Vie Romantique",
+    "opening_days_and_times": "Tuesday-Sunday 10:00-18:00; closed Monday",
+    "district": "9th",
+    "categories": [ "art", "paintings", "romanticism", "architecture", "history", "gardens", "families", "inside", "outside" ]
+  }
+]

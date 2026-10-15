@@ -1,0 +1,431 @@
+[
+  {
+    "name": "Pink Mamma",
+    "opening_days_and_times": "Daily; lunch and dinner, generally 12:00-14:15 and 18:00-23:00",
+    "district": "9th",
+    "categories": [ "italian", "pizza", "pasta", "casual", "families", "inside" ],
+    "popularity": {
+      "level": "very_high",
+      "rating": 4.7,
+      "review_count": 53098
+    }
+  },
+  {
+    "name": "Le Train Bleu",
+    "opening_days_and_times": "Daily; lunch approximately 11:15-14:15 and dinner 19:00-22:15",
+    "district": "12th",
+    "categories": [ "french", "brasserie", "historic", "architecture", "luxury", "families", "inside" ],
+    "popularity": {
+      "level": "very_high",
+      "rating": 4.4,
+      "review_count": 19316
+    }
+  },
+  {
+    "name": "Bouillon Chartier Grands Boulevards",
+    "opening_days_and_times": "Daily 11:30-00:00",
+    "district": "9th",
+    "categories": [ "french", "traditional", "budget", "historic", "casual", "families", "inside" ],
+    "popularity": {
+      "level": "very_high",
+      "rating": 4.1,
+      "review_count": 33517
+    }
+  },
+  {
+    "name": "Bouillon Pigalle",
+    "opening_days_and_times": "Daily 12:00-00:00",
+    "district": "18th",
+    "categories": [ "french", "traditional", "budget", "casual", "families", "inside" ],
+    "popularity": {
+      "level": "very_high",
+      "rating": 4.6,
+      "review_count": 57323
+    }
+  },
+  {
+    "name": "Le Procope",
+    "opening_days_and_times": "Daily 12:00-00:00",
+    "district": "6th",
+    "categories": [ "french", "historic", "traditional", "brasserie", "families", "inside" ],
+    "popularity": {
+      "level": "very_high",
+      "rating": 4.5,
+      "review_count": 28996
+    }
+  },
+  {
+    "name": "Café de Flore",
+    "opening_days_and_times": "Daily 07:30-01:30",
+    "district": "6th",
+    "categories": [ "french", "cafe", "historic", "literary", "breakfast", "casual", "inside", "outside" ],
+    "popularity": {
+      "level": "very_high",
+      "rating": 3.9,
+      "review_count": 14526
+    }
+  },
+  {
+    "name": "L'As du Fallafel",
+    "opening_days_and_times": "Monday-Thursday and Sunday 11:00-23:30; Friday 11:00-15:30",
+    "district": "4th",
+    "categories": [ "middle_eastern", "falafel", "jewish", "kosher", "street_food", "budget", "casual" ],
+    "popularity": {
+      "level": "very_high",
+      "rating": 4.3,
+      "review_count": 14692
+    }
+  },
+  {
+    "name": "Le Relais de l’Entrecôte",
+    "opening_days_and_times": "Daily; lunch and dinner, generally 12:00-14:30 and 18:30-23:00",
+    "district": "8th",
+    "categories": [ "french", "steak", "traditional", "casual", "families", "inside" ],
+    "popularity": {
+      "level": "very_high",
+      "rating": 4.2,
+      "review_count": 9423
+    }
+  },
+  {
+    "name": "Breizh Café",
+    "opening_days_and_times": "Daily 09:00-23:00",
+    "district": "3rd",
+    "categories": [ "french", "crepes", "galettes", "casual", "breakfast", "families" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.3,
+      "review_count": 6673
+    }
+  },
+  {
+    "name": "Bleu Bao",
+    "opening_days_and_times": "Daily; lunch and dinner, generally 12:00-15:00 and 18:30-23:00",
+    "district": "9th",
+    "categories": [ "asian", "chinese", "bao", "casual", "trendy", "families", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.8,
+      "review_count": 9667
+    }
+  },
+  {
+    "name": "Chez Pippo",
+    "opening_days_and_times": "Daily 12:00-23:00",
+    "district": "7th",
+    "categories": [ "italian", "pizza", "pasta", "casual", "families", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.6,
+      "review_count": 6028
+    }
+  },
+  {
+    "name": "Sphère",
+    "opening_days_and_times": "Tuesday-Sunday; lunch and dinner, generally 12:00-14:30 and 19:00-22:30",
+    "district": "8th",
+    "categories": [ "french", "fine_dining", "modern", "romantic", "inside" ],
+    "popularity": {
+      "level": "very_high",
+      "rating": 4.8,
+      "review_count": 14957
+    }
+  },
+  {
+    "name": "Yansai",
+    "opening_days_and_times": "Tuesday-Sunday; lunch and dinner; Saturday-Sunday continuous service approximately 11:45-22:15",
+    "district": "3rd",
+    "categories": [ "asian", "fusion", "modern", "casual", "trendy", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.9,
+      "review_count": 3546
+    }
+  },
+  {
+    "name": "Al Caratello",
+    "opening_days_and_times": "Daily; generally dinner 18:00-23:30, with weekend lunch",
+    "district": "18th",
+    "categories": [ "italian", "pizza", "pasta", "casual", "families", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.7,
+      "review_count": 3566
+    }
+  },
+  {
+    "name": "La Padellina",
+    "opening_days_and_times": "Tuesday-Sunday; lunch and dinner, generally 12:00-14:30 and 18:30-23:00",
+    "district": "9th",
+    "categories": [ "italian", "pasta", "casual", "families", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.8,
+      "review_count": 2673
+    }
+  },
+  {
+    "name": "Le Colimaçon",
+    "opening_days_and_times": "Daily; generally dinner 18:00-22:30, with Sunday lunch",
+    "district": "4th",
+    "categories": [ "french", "traditional", "marais", "romantic", "casual", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.7,
+      "review_count": 3351
+    }
+  },
+  {
+    "name": "Passionné",
+    "opening_days_and_times": "Tuesday-Sunday; lunch and dinner, generally 12:00-14:00 and 19:00-21:45",
+    "district": "9th",
+    "categories": [ "french", "fine_dining", "modern", "romantic", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.8,
+      "review_count": 4962
+    }
+  },
+  {
+    "name": "Epicure",
+    "opening_days_and_times": "Tuesday-Saturday; lunch 12:00-13:30 and dinner 19:30-21:30",
+    "district": "8th",
+    "categories": [ "french", "fine_dining", "luxury", "michelin", "romantic", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.7,
+      "review_count": 1761
+    }
+  },
+  {
+    "name": "Restaurant Guy Savoy",
+    "opening_days_and_times": "Wednesday-Saturday; lunch approximately 12:00-13:30 and dinner 19:00-22:00",
+    "district": "6th",
+    "categories": [ "french", "fine_dining", "michelin", "luxury", "celebrity_chef", "romantic", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.7,
+      "review_count": 1794
+    }
+  },
+  {
+    "name": "Restaurant le Meurice Alain Ducasse",
+    "opening_days_and_times": "Monday-Friday dinner approximately 19:00-21:30",
+    "district": "1st",
+    "categories": [ "french", "fine_dining", "michelin", "luxury", "palace", "romantic", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.4,
+      "review_count": 1021
+    }
+  },
+  {
+    "name": "Le Grand Véfour",
+    "opening_days_and_times": "Daily; lunch and dinner, generally 12:00-14:00 and 19:00-22:30",
+    "district": "1st",
+    "categories": [ "french", "fine_dining", "historic", "luxury", "architecture", "romantic", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.4,
+      "review_count": 1542
+    }
+  },
+  {
+    "name": "Frenchie",
+    "opening_days_and_times": "Daily 18:30-22:30",
+    "district": "2nd",
+    "categories": [ "french", "fine_dining", "modern", "trendy", "romantic", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.6,
+      "review_count": 2159
+    }
+  },
+  {
+    "name": "Septime",
+    "opening_days_and_times": "Monday-Friday; lunch approximately 12:15-14:00 and dinner 19:30-23:00; closed weekends",
+    "district": "11th",
+    "categories": [ "french", "fine_dining", "michelin", "modern", "tasting_menu", "trendy", "inside" ],
+    "popularity": {
+      "level": "very_high",
+      "rating": 4.3,
+      "review_count": 1445
+    }
+  },
+  {
+    "name": "Clamato",
+    "opening_days_and_times": "Daily; lunch approximately 12:00-14:30 and dinner 19:00-22:30",
+    "district": "11th",
+    "categories": [ "seafood", "french", "modern", "casual", "wine", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.4,
+      "review_count": 1645
+    }
+  },
+  {
+    "name": "Bistrot Paul Bert",
+    "opening_days_and_times": "Tuesday-Saturday; lunch 12:00-14:00 and dinner 19:30-22:30",
+    "district": "11th",
+    "categories": [ "french", "bistro", "traditional", "casual", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.2,
+      "review_count": 1850
+    }
+  },
+  {
+    "name": "Le Comptoir du Relais",
+    "opening_days_and_times": "Daily 12:00-23:00",
+    "district": "6th",
+    "categories": [ "french", "bistro", "traditional", "casual", "wine", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.1,
+      "review_count": 1465
+    }
+  },
+  {
+    "name": "L’Ami Jean",
+    "opening_days_and_times": "Wednesday-Friday and Tuesday; lunch 12:00-14:00 and dinner 18:30-23:00; Saturday lunch",
+    "district": "7th",
+    "categories": [ "french", "bistro", "basque", "traditional", "casual", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.5,
+      "review_count": 1457
+    }
+  },
+  {
+    "name": "Les Papilles",
+    "opening_days_and_times": "Tuesday-Saturday; lunch 12:00-14:00 and dinner 18:30-22:00",
+    "district": "5th",
+    "categories": [ "french", "bistro", "wine", "traditional", "casual", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.6,
+      "review_count": 1288
+    }
+  },
+  {
+    "name": "Robert et Louise",
+    "opening_days_and_times": "Thursday-Monday; dinner generally 17:30-23:00, with weekend lunch",
+    "district": "3rd",
+    "categories": [ "french", "meat", "traditional", "marais", "casual", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.5,
+      "review_count": 3473
+    }
+  },
+  {
+    "name": "La Fontaine de Mars",
+    "opening_days_and_times": "Daily; lunch and dinner, generally 12:00-15:00 and 19:00-23:00",
+    "district": "7th",
+    "categories": [ "french", "traditional", "historic", "bistro", "celebrity", "families", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.4,
+      "review_count": 2569
+    }
+  },
+  {
+    "name": "Le Consulat",
+    "opening_days_and_times": "Monday-Friday 12:00-22:00; Saturday-Sunday 12:00-22:30",
+    "district": "18th",
+    "categories": [ "french", "traditional", "montmartre", "historic", "casual", "families", "inside", "outside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.1,
+      "review_count": 1926
+    }
+  },
+  {
+    "name": "Les Baux de Paris",
+    "opening_days_and_times": "Daily; generally lunch and dinner, with late evening service",
+    "district": "5th",
+    "categories": [ "french", "traditional", "casual", "families", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.7,
+      "review_count": 2302
+    }
+  },
+  {
+    "name": "My Noodles",
+    "opening_days_and_times": "Daily; lunch approximately 11:40-14:30 and dinner 18:20-22:30",
+    "district": "6th",
+    "categories": [ "chinese", "noodles", "asian", "casual", "budget", "families", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.7,
+      "review_count": 2538
+    }
+  },
+  {
+    "name": "Petit Boutary",
+    "opening_days_and_times": "Tuesday-Saturday; lunch 12:00-15:00 and dinner 19:00-23:30",
+    "district": "17th",
+    "categories": [ "french", "fine_dining", "modern", "romantic", "inside" ],
+    "popularity": {
+      "level": "medium",
+      "rating": 4.8,
+      "review_count": 817
+    }
+  },
+  {
+    "name": "Boutary",
+    "opening_days_and_times": "Tuesday-Saturday; lunch on weekdays and dinner approximately 19:00-23:30",
+    "district": "6th",
+    "categories": [ "french", "fine_dining", "modern", "romantic", "inside" ],
+    "popularity": {
+      "level": "medium",
+      "rating": 4.8,
+      "review_count": 893
+    }
+  },
+  {
+    "name": "Restaurant H",
+    "opening_days_and_times": "Tuesday-Saturday 19:00-21:30",
+    "district": "4th",
+    "categories": [ "french", "fine_dining", "modern", "tasting_menu", "romantic", "inside" ],
+    "popularity": {
+      "level": "medium",
+      "rating": 4.7,
+      "review_count": 670
+    }
+  },
+  {
+    "name": "Pur' - Jean-François Rouquette",
+    "opening_days_and_times": "Tuesday-Saturday 19:00-21:15",
+    "district": "2nd",
+    "categories": [ "french", "fine_dining", "michelin", "luxury", "romantic", "inside" ],
+    "popularity": {
+      "level": "medium",
+      "rating": 4.7,
+      "review_count": 567
+    }
+  },
+  {
+    "name": "L'Ange 20",
+    "opening_days_and_times": "Wednesday-Sunday; lunch 12:00-14:00 and dinner 18:30-22:00",
+    "district": "4th",
+    "categories": [ "french", "traditional", "marais", "casual", "families", "inside" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.7,
+      "review_count": 1607
+    }
+  },
+  {
+    "name": "Al Caratello",
+    "opening_days_and_times": "Daily; dinner approximately 18:00-23:30, with weekend lunch",
+    "district": "18th",
+    "categories": [ "italian", "pizza", "pasta", "montmartre", "casual", "families" ],
+    "popularity": {
+      "level": "high",
+      "rating": 4.7,
+      "review_count": 3566
+    }
+  }
+]
