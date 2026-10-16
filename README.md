@@ -60,4 +60,4 @@ APIs and package versions may change while Microsoft Agent Framework is evolving
 
 - [Microsoft Agent Framework - workflows](https://learn.microsoft.com/en-us/agent-framework/get-started/workflows)
 - [Microsoft Foundry](https://ai.azure.com/)
-- [My blog post with detailed explanation]()
+- [My blog post with detailed explanation](https://www.bestprogrammers.net/en/blog/basics-of-agentic-workflows)
